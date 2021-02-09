@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "message": "Critical software updates pending on workstation 001",
+      "attention": true,
+      "technician": "Aditya Cherukuri",
+      "date": "2021-02-09T08:19:00.773Z",
+      "id": 1
+    },
+    {
+      "message": "Fixed network issues on workstation 002",
+      "attention": false,
+      "technician": "Mrudula Ravipati",
+      "date": "2021-02-09T08:19:37.936Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "New hard drive installed on workstation 003",
+      "attention": false,
+      "technician": "Vinatha Kotapati",
+      "date": "2021-02-09T08:20:27.716Z"
+    },
+    {
+      "message": "Weekly maintenance pending for workstation 004",
+      "attention": true,
+      "technician": "Ahalya Y",
+      "date": "2021-02-09T08:21:55.491Z",
+      "id": 4
+    },
+    {
+      "message": "Replaced monitors for workstation 005",
+      "attention": false,
+      "technician": "Vinatha Kotapati",
+      "date": "2021-02-09T08:23:32.041Z",
+      "id": 5
+    }
+  ],
+  "technicians": [
+    {
+      "id": 1,
+      "firstName": "Aditya",
+      "lastName": "Cherukuri"
+    },
+    {
+      "id": 2,
+      "firstName": "Mrudula",
+      "lastName": "Ravipati"
+    },
+    {
+      "firstName": "Vinatha",
+      "lastName": "Kotapati",
+      "id": 4
+    },
+    {
+      "firstName": "Ahalya",
+      "lastName": "Y",
+      "id": 5
+    }
+  ]
+}
