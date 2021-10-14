@@ -1,5 +1,5 @@
-<img width="1278" alt="Screen Shot 2021-02-09 at 3 22 08 AM" src="https://user-images.githubusercontent.com/47628153/107336051-af0da100-6a86-11eb-8fe4-7c52d4e35c5e.png">
-<img width="1278" alt="Screen Shot 2021-02-09 at 3 23 24 AM" src="https://user-images.githubusercontent.com/47628153/107336058-b2a12800-6a86-11eb-832f-b8e227f1b005.png">
+<!-- <img width="1278" alt="Screen Shot 2021-02-09 at 3 22 08 AM" src="https://user-images.githubusercontent.com/47628153/107336051-af0da100-6a86-11eb-8fe4-7c52d4e35c5e.png">
+<img width="1278" alt="Screen Shot 2021-02-09 at 3 23 24 AM" src="https://user-images.githubusercontent.com/47628153/107336058-b2a12800-6a86-11eb-832f-b8e227f1b005.png"> -->
 
 # Getting Started with Create React App
 
